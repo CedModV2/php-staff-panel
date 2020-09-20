@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="113cf0ae-ea1c-49d8-8ad9-f745a8e0be19" name="Default Changelist" comment="e">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/userdbdump.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config1.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/config1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/mysqlauditlog.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config/mysqlauditlog.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/mysqlban.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config/mysqlban.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/mysqllogin.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config/mysqllogin.ini" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectId" id="1en1KuSEwWCCiHMX7hcBXaRv1aL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\php\FrikanWeb\config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\php\FrikanWeb\public_html\php" />
+      <recent name="E:\php\FrikanWeb\public_html\php\scripts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" nameIsGenerated="true" document_root="$PROJECT_DIR$/public_html" host="0.0.0.0" port="82">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="113cf0ae-ea1c-49d8-8ad9-f745a8e0be19" name="Default Changelist" comment="" />
+      <created>1594942482365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594942482365</updated>
+      <workItem from="1594942488368" duration="351000" />
+      <workItem from="1594944076121" duration="71000" />
+      <workItem from="1595249410027" duration="59000" />
+      <workItem from="1595367866803" duration="1668000" />
+      <workItem from="1595541994374" duration="1272000" />
+      <workItem from="1595589899040" duration="11217000" />
+      <workItem from="1595890274383" duration="3060000" />
+      <workItem from="1595953547016" duration="74000" />
+      <workItem from="1596069023275" duration="1785000" />
+      <workItem from="1596119562047" duration="14087000" />
+      <workItem from="1596157676457" duration="1071000" />
+      <workItem from="1596196834426" duration="2427000" />
+      <workItem from="1596491224738" duration="1742000" />
+      <workItem from="1596813146994" duration="1767000" />
+      <workItem from="1596988247400" duration="4754000" />
+      <workItem from="1597011404147" duration="1185000" />
+      <workItem from="1597060867452" duration="9000" />
+      <workItem from="1597142317234" duration="12088000" />
+      <workItem from="1597315506754" duration="426000" />
+      <workItem from="1597406196415" duration="27000" />
+      <workItem from="1597444050748" duration="4262000" />
+      <workItem from="1597448516670" duration="16000" />
+      <workItem from="1597448552083" duration="3000" />
+      <workItem from="1597490158673" duration="55000" />
+      <workItem from="1597500355677" duration="1809000" />
+      <workItem from="1597579391162" duration="9736000" />
+      <workItem from="1597663582364" duration="28991000" />
+      <workItem from="1597766535490" duration="727000" />
+      <workItem from="1597787110245" duration="616000" />
+      <workItem from="1597792747886" duration="621000" />
+      <workItem from="1597833826297" duration="5161000" />
+      <workItem from="1597918472790" duration="1696000" />
+      <workItem from="1598007021820" duration="725000" />
+      <workItem from="1598183950798" duration="1377000" />
+      <workItem from="1598275094788" duration="13670000" />
+      <workItem from="1598357533512" duration="677000" />
+      <workItem from="1598390440561" duration="5988000" />
+      <workItem from="1598639688713" duration="2380000" />
+      <workItem from="1598646335425" duration="3456000" />
+      <workItem from="1599325885145" duration="11003000" />
+      <workItem from="1599384626749" duration="14945000" />
+      <workItem from="1599479350636" duration="14302000" />
+      <workItem from="1599507603920" duration="5794000" />
+      <workItem from="1599579077751" duration="6670000" />
+      <workItem from="1599831345443" duration="1253000" />
+      <workItem from="1599913277938" duration="766000" />
+      <workItem from="1599986837176" duration="5222000" />
+      <workItem from="1600008854172" duration="1950000" />
+      <workItem from="1600078957935" duration="16000" />
+      <workItem from="1600596218177" duration="884000" />
+    </task>
+    <task id="LOCAL-00034" summary="popups">
+      <created>1597590017001</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1597590017001</updated>
+    </task>
+    <task id="LOCAL-00035" summary="oops">
+      <created>1597673369409</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1597673369409</updated>
+    </task>
+    <task id="LOCAL-00036" summary="nickname resolver + ip resolver improvement">
+      <created>1597676429692</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1597676429692</updated>
+    </task>
+    <task id="LOCAL-00037" summary="duration of popups">
+      <created>1597676783228</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1597676783228</updated>
+    </task>
+    <task id="LOCAL-00038" summary="fix popups + login">
+      <created>1597691433360</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1597691433360</updated>
+    </task>
+    <task id="LOCAL-00039" summary="fix popups (again)">
+      <created>1597696144409</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1597696144409</updated>
+    </task>
+    <task id="LOCAL-00040" summary="oops">
+      <created>1597696341284</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1597696341284</updated>
+    </task>
+    <task id="LOCAL-00041" summary="cedmod rest api support">
+      <created>1597712950880</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1597712950880</updated>
+    </task>
+    <task id="LOCAL-00042" summary="ree">
+      <created>1597714352505</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1597714352505</updated>
+    </task>
+    <task id="LOCAL-00043" summary="ip resolver fix">
+      <created>1597766648546</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1597766648546</updated>
+    </task>
+    <task id="LOCAL-00044" summary="speed">
+      <created>1597840604651</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1597840604651</updated>
+    </task>
+    <task id="LOCAL-00045" summary="require instead if include">
+      <created>1597846046667</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1597846046667</updated>
+    </task>
+    <task id="LOCAL-00046" summary="sentry logging">
+      <created>1597846364317</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1597846364317</updated>
+    </task>
+    <task id="LOCAL-00047" summary="fix account verification">
+      <created>1597918661990</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1597918661990</updated>
+    </task>
+    <task id="LOCAL-00048" summary="fix i hope">
+      <created>1597918935370</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1597918935370</updated>
+    </task>
+    <task id="LOCAL-00049" summary="fix i hope">
+      <created>1598007123564</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1598007123564</updated>
+    </task>
+    <task id="LOCAL-00050" summary="js moment">
+      <created>1598184138186</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1598184138187</updated>
+    </task>
+    <task id="LOCAL-00051" summary="login prompts">
+      <created>1598284654409</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1598284654410</updated>
+    </task>
+    <task id="LOCAL-00052" summary="steamid.io link">
+      <created>1598285005668</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1598285005669</updated>
+    </task>
+    <task id="LOCAL-00053" summary="frikanbroodje">
+      <created>1598357601424</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1598357601427</updated>
+    </task>
+    <task id="LOCAL-00054" summary="frikanbroodje">
+      <created>1598357608111</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1598357608111</updated>
+    </task>
+    <task id="LOCAL-00055" summary="stats">
+      <created>1598395704675</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1598395704675</updated>
+    </task>
+    <task id="LOCAL-00056" summary="fix">
+      <created>1598446857028</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1598446857029</updated>
+    </task>
+    <task id="LOCAL-00057" summary="fix">
+      <created>1598447015462</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1598447015462</updated>
+    </task>
+    <task id="LOCAL-00058" summary="fixaa">
+      <created>1598448606817</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1598448606817</updated>
+    </task>
+    <task id="LOCAL-00059" summary="a">
+      <created>1598639769080</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1598639769082</updated>
+    </task>
+    <task id="LOCAL-00060" summary="a">
+      <created>1598640829915</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1598640829915</updated>
+    </task>
+    <task id="LOCAL-00061" summary="a">
+      <created>1598640955860</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1598640955860</updated>
+    </task>
+    <task id="LOCAL-00062" summary="bring back auto expirer">
+      <created>1598742152352</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1598742152352</updated>
+    </task>
+    <task id="LOCAL-00063" summary="aaaaaaaahhhh">
+      <created>1598742408945</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1598742408945</updated>
+    </task>
+    <task id="LOCAL-00064" summary="attempt 3 at the auto expirere">
+      <created>1598742770584</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1598742770584</updated>
+    </task>
+    <task id="LOCAL-00065" summary="this is sparta it actually isnt but who gives a shit">
+      <created>1599506352187</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1599506352187</updated>
+    </task>
+    <task id="LOCAL-00066" summary="e">
+      <created>1599508778353</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1599508778353</updated>
+    </task>
+    <task id="LOCAL-00067" summary="e2">
+      <created>1599508848093</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1599508848093</updated>
+    </task>
+    <task id="LOCAL-00068" summary="e2">
+      <created>1599508867638</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1599508867639</updated>
+    </task>
+    <task id="LOCAL-00069" summary="ree">
+      <created>1599509366104</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1599509366104</updated>
+    </task>
+    <task id="LOCAL-00070" summary="hrm">
+      <created>1599510573343</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1599510573358</updated>
+    </task>
+    <task id="LOCAL-00071" summary="hrm">
+      <created>1599511636374</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1599511636790</updated>
+    </task>
+    <task id="LOCAL-00072" summary="hrm">
+      <created>1599511752778</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1599511752778</updated>
+    </task>
+    <task id="LOCAL-00073" summary="hrm">
+      <created>1599512409006</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1599512409006</updated>
+    </task>
+    <task id="LOCAL-00074" summary="hrm">
+      <created>1599512534377</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1599512534377</updated>
+    </task>
+    <task id="LOCAL-00075" summary="hrm">
+      <created>1599512934397</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1599512934397</updated>
+    </task>
+    <task id="LOCAL-00076" summary="hrm">
+      <created>1599513045406</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1599513045406</updated>
+    </task>
+    <task id="LOCAL-00077" summary="hrm">
+      <created>1599513449336</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1599513449336</updated>
+    </task>
+    <task id="LOCAL-00078" summary="e">
+      <created>1599583409850</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1599583409851</updated>
+    </task>
+    <task id="LOCAL-00079" summary="fix double logging">
+      <created>1599583728215</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1599583728215</updated>
+    </task>
+    <task id="LOCAL-00080" summary="e">
+      <created>1599586138358</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1599586138358</updated>
+    </task>
+    <task id="LOCAL-00081" summary="e">
+      <created>1599586225002</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1599586225002</updated>
+    </task>
+    <task id="LOCAL-00082" summary="e">
+      <created>1599990617096</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1599990617098</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="oops" />
+    <MESSAGE value="cedmod rest api support" />
+    <MESSAGE value="ip resolver fix" />
+    <MESSAGE value="speed" />
+    <MESSAGE value="require instead if include" />
+    <MESSAGE value="sentry logging" />
+    <MESSAGE value="fix account verification" />
+    <MESSAGE value="fix i hope" />
+    <MESSAGE value="js moment" />
+    <MESSAGE value="login prompts" />
+    <MESSAGE value="steamid.io link" />
+    <MESSAGE value="frikanbroodje" />
+    <MESSAGE value="stats" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="fixaa" />
+    <MESSAGE value="a" />
+    <MESSAGE value="bring back auto expirer" />
+    <MESSAGE value="aaaaaaaahhhh" />
+    <MESSAGE value="attempt 3 at the auto expirere" />
+    <MESSAGE value="this is sparta it actually isnt but who gives a shit" />
+    <MESSAGE value="e2" />
+    <MESSAGE value="ree" />
+    <MESSAGE value="hrm" />
+    <MESSAGE value="fix double logging" />
+    <MESSAGE value="e" />
+    <option name="LAST_COMMIT_MESSAGE" value="e" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="175" key="#CLI_Interpreters" timestamp="1594942799764">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" key="#CLI_Interpreters/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594942799764" />
+    <state x="667" y="163" key="#PHP" timestamp="1594942801075">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="163" key="#PHP/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594942801075" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594942805564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594942805564" />
+    <state x="2610" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596154738103">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596154738103" />
+    <state x="2012" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1598644585332">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2012" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598644585332" />
+    <state x="2660" y="262" key="FileChooserDialogImpl" timestamp="1600078970846">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="262" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595953619862" />
+    <state x="2660" y="262" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600078970846" />
+    <state x="740" y="262" key="FileChooserDialogImpl/78.1080.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1597664831747" />
+    <state x="571" y="1328" key="FileChooserDialogImpl/78.1080.1280.984/0.0.1920.1040@78.1080.1280.984" timestamp="1597792445532" />
+    <state width="1877" height="216" key="GridCell.Tab.0.bottom" timestamp="1600035431189">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="216" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599579599670" />
+    <state width="1877" height="216" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600035431189" />
+    <state width="1877" height="217" key="GridCell.Tab.0.bottom/78.1080.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1597714556604" />
+    <state width="1237" height="200" key="GridCell.Tab.0.bottom/78.1080.1280.984/0.0.1920.1040@78.1080.1280.984" timestamp="1597591284216" />
+    <state width="1877" height="216" key="GridCell.Tab.0.center" timestamp="1600035431189">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="216" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599579599669" />
+    <state width="1877" height="216" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600035431189" />
+    <state width="1877" height="217" key="GridCell.Tab.0.center/78.1080.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1597714556604" />
+    <state width="1237" height="200" key="GridCell.Tab.0.center/78.1080.1280.984/0.0.1920.1040@78.1080.1280.984" timestamp="1597591284216" />
+    <state width="1877" height="216" key="GridCell.Tab.0.left" timestamp="1600035431189">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="216" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599579599668" />
+    <state width="1877" height="216" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600035431189" />
+    <state width="1877" height="217" key="GridCell.Tab.0.left/78.1080.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1597714556604" />
+    <state width="1237" height="200" key="GridCell.Tab.0.left/78.1080.1280.984/0.0.1920.1040@78.1080.1280.984" timestamp="1597591284215" />
+    <state width="1877" height="216" key="GridCell.Tab.0.right" timestamp="1600035431189">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="216" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599579599669" />
+    <state width="1877" height="216" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600035431189" />
+    <state width="1877" height="217" key="GridCell.Tab.0.right/78.1080.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1597714556604" />
+    <state width="1237" height="200" key="GridCell.Tab.0.right/78.1080.1280.984/0.0.1920.1040@78.1080.1280.984" timestamp="1597591284216" />
+    <state x="2714" y="443" key="NewPhpFileDialog" timestamp="1599332520197">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595592035745" />
+    <state x="2714" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599332520197" />
+    <state x="794" y="443" key="NewPhpFileDialog/78.1080.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1597666389084" />
+    <state x="607" y="1499" key="NewPhpFileDialog/78.1080.1280.984/0.0.1920.1040@78.1080.1280.984" timestamp="1597846489405" />
+    <state x="2661" y="205" key="RollbackChangesDialog" timestamp="1600035424790">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2661" y="205" key="RollbackChangesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600035424790" />
+    <state x="572" y="1274" key="RollbackChangesDialog/78.1080.1280.984/0.0.1920.1040@78.1080.1280.984" timestamp="1597846480640" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600016951134">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599513451599" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600016951134" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/78.1080.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1597840606858" />
+    <state x="446" y="1319" key="Vcs.Push.Dialog.v2/78.1080.1280.984/0.0.1920.1040@78.1080.1280.984" timestamp="1597766661697" />
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598646986414">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598646986414" />
+    <state x="547" y="-8" width="1330" height="724" key="dock-window-1" timestamp="1600016333220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="547" y="-8" width="1330" height="724" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600016333220" />
+    <state x="543" y="88" width="975" height="924" key="find.popup" timestamp="1598639757245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="543" y="88" width="975" height="924" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598639757245" />
+    <state x="2463" y="88" width="975" height="847" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598283117581" />
+    <state x="425" y="1171" width="650" height="801" key="find.popup/78.1080.1280.984/0.0.1920.1040@78.1080.1280.984" timestamp="1597845795584" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1598649538254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598649538254" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598647845001">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598647845001" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/78.1080.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1597666409237" />
+  </component>
+</project>

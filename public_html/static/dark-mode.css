@@ -1,0 +1,79 @@
+[data-theme="dark"] {
+  background-color: #111 !important;
+  color: #eee;
+}
+[data-theme="dark"] .bg-light {
+  background-color: #333 !important;
+}
+[data-theme="dark"] .bg-white {
+  background-color: #000 !important;
+}
+[data-theme="dark"] .bg-black {
+  background-color: #eee !important;
+}
+[data-theme="dark"] .bg-custom {
+  background-color: #171414 !important;
+}
+[data-theme="dark"] .nav-tabcss {
+  background: #36363b !important;
+  color: #FFFFFF !important;
+}
+
+[data-theme="dark"] .nav-tabcss.active {
+  color: #FFFFFF !important;
+  background: #1f1e1e !important;
+}
+[data-theme="dark"] .form-control {
+  background-color: #2f3136 !important;
+  color: white;
+  border-color: #202225;
+}
+[data-theme="dark"] .tabelcolor {
+  color: white !important;
+  border-color: #202225 !important;
+  border-left: #202225 !important;
+  border-right: #202225 !important;
+  border-bottom:  #202225 !important;
+}
+ [data-theme="dark"] .dropdown-menu {
+   background-color: #1f2324 !important;
+ }
+[data-theme="dark"] .dropdown-item {
+  color: white !important;
+}
+[data-theme="dark"] .dropdown-divider {
+  background-color: black !important;
+}
+[data-theme="dark"] .dropdown-menu > a:hover {
+  background-color: #262c2d !important;
+  background-image: none !important;
+}
+[data-theme="dark"] .tablebegin {
+  color: white !important;
+  background-color: #333 !important;
+  border-color: #202225 !important;
+  border-left:  #202225 !important;
+  border-right: #202225 !important;
+  border-bottom:  #202225 !important;
+  border-top:  #202225 !important;
+}
+
+table {
+  border-collapse:separate;
+  border:solid 1px;
+  border-radius:15px;
+  -moz-border-radius:6px;
+}
+
+td, th {
+  border-left:solid 1px;
+  border-top:solid 1px;
+}
+
+th {
+  border-top: none;
+}
+
+td:first-child, th:first-child {
+  border-left: none;
+}

@@ -1,0 +1,6 @@
+{
+    "require": {
+        "restcord/restcord": "^0.4.0",
+        "sentry/sdk": "^2.1"
+    }
+}

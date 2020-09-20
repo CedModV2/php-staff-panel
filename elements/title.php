@@ -1,0 +1,2 @@
+<?php require_once realpath($_SERVER['DOCUMENT_ROOT'] . "/../config/config1.php"); ?>
+<title><?php echo $title; ?> | <?php echo $community; ?></title><link rel="shortcut icon" href="<?php echo $faviconurl; ?>" />
